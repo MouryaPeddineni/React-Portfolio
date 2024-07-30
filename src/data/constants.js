@@ -194,7 +194,7 @@ export const projects = [
     tags: ["React Js", "API", "Material UI", "tailwind"],
     category: "web app",
     github:
-      "https://github.com/faisalkhandev/foodAppOnline-Namaste-React-?tab=readme-ov-file",
+      "https://github.com/MouryaPeddineni/react-portfolio",
     webapp: "https://foodappreactredux.netlify.app/",
   },
   {
@@ -204,10 +204,10 @@ export const projects = [
     description:
       "I conceptualized and developed a Spotify clone application using HTML, CSS, and JavaScript. This project aimed to replicate the core features and user experience of the original Spotify platform while addressing the limitation of its unresponsiveness.",
     image:
-      "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+      "https://postimg.cc/ykn93bBK",
     tags: ["HTML", "CSS", "Javascript"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Quiz-Earn",
+    github: "",
     webapp: "https://affancoder.github.io/Music_Player/",
   },
   {
@@ -220,8 +220,8 @@ export const projects = [
       "https://i.postimg.cc/ZYMm2Hj6/Breast-Cancer-Detection-Machine-Learning-Project.webp",
     tags: ["Machine learning", "Classification", "Evaluation"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Quiz-Earn",
-    webapp: "https://github.com/rishavchanda/Quiz-Earn",
+    github: "",
+    webapp: "",
   },
 ];
 
